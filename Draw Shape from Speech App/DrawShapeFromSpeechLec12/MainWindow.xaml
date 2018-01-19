@@ -1,0 +1,24 @@
+﻿<Window x:Class="DrawShapeFromSpeechLec12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawShapeFromSpeechLec12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="801.2" Width="1326.6" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="480" Margin="91,60,0,0" VerticalAlignment="Top" Width="640"/>
+
+        <Canvas x:Name="canvas1" HorizontalAlignment="Left" Height="480" Margin="91,60,0,0" VerticalAlignment="Top" Width="640"/>
+        <Label x:Name="label" Content="Say: Close The Application - to quit" HorizontalAlignment="Left" Margin="930,42,0,0" VerticalAlignment="Top" Width="353" RenderTransformOrigin="0.497,1.615" Background="#FF3AF132" Height="46" FontSize="22"/>
+        <Label x:Name="label1" Content="Words Hypothesized:" HorizontalAlignment="Left" Margin="935,112,0,0" VerticalAlignment="Top" Width="348" Height="52"/>
+        <Label x:Name="label2" Content="Words recognized:" HorizontalAlignment="Left" Margin="935,248,0,0" VerticalAlignment="Top" Width="348" Height="45"/>
+        <Label x:Name="label3" Content="Confidence:" HorizontalAlignment="Left" Margin="935,394,0,0" VerticalAlignment="Top" Width="348" Height="43"/>
+        <TextBox x:Name="wordsTenative" HorizontalAlignment="Left" Height="42" Margin="935,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="348"/>
+        <TextBox x:Name="wordsRecognized" HorizontalAlignment="Left" Height="46" Margin="935,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="348"/>
+        <TextBox x:Name="confidenceTxt" HorizontalAlignment="Left" Height="45" Margin="935,461,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="348"/>
+        <TextBox x:Name="statusBar" HorizontalAlignment="Left" Height="60" Margin="306,574,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="368"/>
+        <Canvas x:Name="canvas2" HorizontalAlignment="Left" Height="480" Margin="91,60,0,0" VerticalAlignment="Top" Width="640"/>
+
+    </Grid>
+</Window>

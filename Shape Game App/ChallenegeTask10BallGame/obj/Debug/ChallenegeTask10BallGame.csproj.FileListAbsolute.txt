@@ -1,0 +1,16 @@
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\bin\Debug\ChallenegeTask10BallGame.exe.config
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\bin\Debug\ChallenegeTask10BallGame.exe
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\bin\Debug\ChallenegeTask10BallGame.pdb
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\bin\Debug\Microsoft.Kinect.dll
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\bin\Debug\Microsoft.Kinect.xml
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame.csprojResolveAssemblyReference.cache
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\MainWindow.g.cs
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\App.g.cs
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame_MarkupCompile.cache
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame_MarkupCompile.lref
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\MainWindow.baml
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame.g.resources
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame.Properties.Resources.resources
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame.csproj.GenerateResource.Cache
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame.exe
+c:\users\niles\documents\visual studio 2015\Projects\ChallenegeTask10BallGame\ChallenegeTask10BallGame\obj\Debug\ChallenegeTask10BallGame.pdb
